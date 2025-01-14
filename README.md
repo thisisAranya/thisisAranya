@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm currently pursuing a **BSc in Electrical and E
 ---
 
 ## 🌐 **Find Me Online**
-- **Portfolio**: [Visit my website](https://thisisaranya.github.io/AranyaSaha/)  
-- **LinkedIn**: [linkedin.com/in/aranya-saha](https://www.linkedin.com/in/aranya-saha)  
-- **Google Scholar**: [View my citations](https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en)  
+- **Portfolio**: [Visit my website](https://sites.google.com/view/aranyasaha/home)
+- **LinkedIn**: [linkedin.com/in/aranya-saha](https://www.linkedin.com/in/aranya-saha)
 
 ---
 
