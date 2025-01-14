@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Aranya Saha!
 
-<!--
-**thisisAranya/thisisAranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring PhD Candidate | Engineer | Researcher**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently pursuing a **BSc in Electrical and Electronic Engineering (EEE)** at the **Bangladesh University of Engineering and Technology (BUET)**, with a major in **Communication and Signal Processing (CSP)**. My work and research are focused on advancing technologies in **Artificial Intelligence**, **Machine Learning**, and **Biomedical Image Processing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 **Find Me Online**
+- **Portfolio**: [Visit my website](https://thisisaranya.github.io/AranyaSaha/)  
+- **LinkedIn**: [linkedin.com/in/aranya-saha](https://www.linkedin.com/in/aranya-saha)  
+- **Google Scholar**: [View my citations](https://scholar.google.com/citations?user=DJUPchAAAAAJ&hl=en)  
+
+---
+
+## 💌 **Get in Touch**
+📧 Email: [aranyasaha932@gmail.com](mailto:aranyasaha932@gmail.com)  
+🌍 Location: Dhaka, Bangladesh  
+
+---
+
+✨ *“Engineering solutions for today, envisioning innovations for tomorrow.”*  
