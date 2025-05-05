@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aranya Saha!
 
-🚀 **Aspiring Engineer | Researcher**
+🚀 **Machine Learning Engineer | Researcher**
 
 Welcome to my GitHub profile! I'm currently pursuing a **BSc in Electrical and Electronic Engineering (EEE)** at the **Bangladesh University of Engineering and Technology (BUET)**, with a major in **Communication and Signal Processing (CSP)**. My work and research are focused on advancing technologies in **Artificial Intelligence**, **Machine Learning**, and **Biomedical Image Processing**.
 
